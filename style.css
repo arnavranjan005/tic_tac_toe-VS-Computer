@@ -89,20 +89,20 @@ body{
 }
 
 #lose{
-    font-size: 5rem;
+    font-size: 4rem;
     position: absolute;
     color: rgb(255, 0, 0);
 }
 
 #win{
-    font-size: 3.45rem;
+    font-size: 2.85rem;
     position: absolute;
     color:lightgreen;
     text-align: center;
 }
 
 #tie{
-    font-size: 5rem;
+    font-size: 4rem;
     position: absolute;
     color:yellow;
 }
