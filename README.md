@@ -1,4 +1,5 @@
-- 👋 Hi, I’m arnavranjan
+
+- 👋 Hi, I’m Arnav Ranjan
 - 👀 I’m interested in Web Development and Data structure and Algorithm.
 - 🌱 I’m currently studying in IIIT SRI CITY (Btech in CSE).
 
