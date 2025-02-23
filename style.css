@@ -106,3 +106,25 @@ body{
     position: absolute;
     color:yellow;
 }
+
+.btn{
+    background-color: black;
+    border: 2px solid white;
+    width: 30%;
+    height: 7%;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: white;
+}
+
+.btn:hover a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
