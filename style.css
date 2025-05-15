@@ -129,3 +129,10 @@ body {
   position: absolute;
   color: yellow;
 }
+
+#restart_game{
+  padding: 7px;
+  border-radius: 10px;
+  background-color: cyan;
+  color: black;
+}

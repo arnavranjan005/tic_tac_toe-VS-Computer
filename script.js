@@ -198,3 +198,7 @@ tieBlock[0].addEventListener("click", () => {
 lose[0].addEventListener("click", () => {
     window.location.reload();
 });
+
+function restart(){
+    window.location.reload();
+}
